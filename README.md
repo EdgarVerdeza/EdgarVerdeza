@@ -1,26 +1,30 @@
-## Hi there 👋
-Most used languages across my projects:
-<!--
-[![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%EF%B8%B164.7%25)
-![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B12.8%25)
-![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B11.9%25)
-![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23563d7c&message=CSS%EF%B8%B11.1%25)
-![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B11.2%25)
-](url)
+# Hola, Soy Edgar 👋
 
-<p align="right"><sub>Generated using <a href="https://github.com/marketplace/actions/profile-readme-stats">EdgarVerdeza/profile-readme-stats</a></sub></p>
--->
-<!--
-**EdgarVerdeza/EdgarVerdeza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Desarrollador Fullstack | Especializado en MEAN Stack y .NET
 
-Here are some ideas to get you started:
+Soy un apasionado desarrollador de software con experiencia en la creación de aplicaciones web y de escritorio. Disfruto resolver problemas complejos y me encanta aprender nuevas tecnologías.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tecnologías & Herramientas:
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### 🛠️ Herramientas de Desarrollo:
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### 📊 Mis Estadísticas
+
+```plaintext
+JavaScript   ████████████████████░░░░░░░░░  70%
+C#           ██████████░░░░░░░░░░░░░░░░░░  50%
+Angular      ████████████████░░░░░░░░░░░░  60%
+Node.js      █████████░░░░░░░░░░░░░░░░░░░  40%
+.NET         █████████████░░░░░░░░░░░░░░░  50%
+SQLite       ██████░░░░░░░░░░░░░░░░░░░░░░  30%
