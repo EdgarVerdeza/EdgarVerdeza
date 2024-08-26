@@ -1,6 +1,6 @@
 # Hola, Soy Edgar 👋
 
-## 💻 Desarrollador Fullstack | Especializado en MEAN Stack y .NET
+## 💻 Desarrollador .NET y Fullstack | Especializado en MEAN Stack
 
 Soy un apasionado desarrollador de software con experiencia en la creación de aplicaciones web y de escritorio. Disfruto resolver problemas complejos y me encanta aprender nuevas tecnologías.
 
